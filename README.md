@@ -1,17 +1,4 @@
 # firstwebsite
-I'll create a futuristic website using only HTML, CSS, and JavaScript - no frameworks or libraries needed!
-
-```html project="Futuristic Website" file="index.html"
-...
-```
-
-```css project="Futuristic Website" file="styles.css"
-...
-```
-
-```javascript project="Futuristic Website" file="script.js"
-...
-```
 
 ## Pure HTML, CSS & JavaScript Futuristic Website
 
